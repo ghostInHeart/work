@@ -27,7 +27,7 @@
    <br>
    主模块与子模块都引入了 Layout
    <br>
-   ![1.jpg](https://github.com/ghostInHeart/work/blob/master/images/portal-separate/1.jpg)
+   ![1.png](https://github.com/ghostInHeart/work/blob/master/images/portal-separate/1.png)
    ![2.jpg](https://github.com/ghostInHeart/work/blob/master/images/portal-separate/2.jpg)
    <br>
    解决方法：更换引入的顺序，参考[该文档](https://stackoverflow.com/questions/35240716/webpack-import-returns-undefined-depending-on-the-order-of-imports)
