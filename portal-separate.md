@@ -9,7 +9,7 @@
 
   页面中引入：
 
-  ![4.png](https://github.com/ghostInHeart/work/blob/master/images/portal-separate/4.png)
+  ![4.jpg](https://github.com/ghostInHeart/work/blob/master/images/portal-separate/4.jpg)
 
 二. [RISK-风控模块](http://gitlab.tengsaw.cn/xuman/risk-package) 提取
 
@@ -17,9 +17,9 @@
 
 - 子模块的配置文件都保留,才能独立启动项目,各种配置文件可以只保留私有的配置,但是格式建议与主模块保持一致。
 
-- 在入口文件(/src/index.ts)中导出所有页面,注意路径问题
+- 在入口文件(/jpgsrc/index.ts)中导出所有页面,注意路径问题
 
-![5.png](https://github.com/ghostInHeart/work/blob/master/images/portal-separate/5.png)
+![5.jpg](https://github.com/ghostInHeart/work/blob/master/images/portal-separate/5.jpg)
 
 三. [主模块](http://gitlab.tengsaw.cn/xuman/portal-main)提取
 
@@ -31,7 +31,7 @@
 
 ![6.png](https://github.com/ghostInHeart/work/blob/master/images/portal-separate/6.png)
 
-![7.png](https://github.com/ghostInHeart/work/blob/master/images/portal-separate/7.png)
+![7.jpg](https://github.com/ghostInHeart/work/blob/master/images/portal-separate/7.jpg)
 
 四. 拆分过程中遇到的问题
 
