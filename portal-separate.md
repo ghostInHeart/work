@@ -11,6 +11,10 @@
 
   ![4.jpg](https://github.com/ghostInHeart/work/blob/master/images/portal-separate/4.jpg)
 
+- 全局注入的 css 路径修改(vue.config.js)
+
+  ![8.jpg](https://github.com/ghostInHeart/work/blob/master/images/portal-separate/8.jpg)
+
 二. [RISK-风控模块](http://gitlab.tengsaw.cn/xuman/risk-package) 提取
 
 - 复制一份项目，去除了与风控无关的东西，保留了最主要的 src 下的风控的一些基本页面(/views/risksystem),及其相关联的 api，router，assets，store,这些子模块私有的东西可以自己维护。
