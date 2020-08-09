@@ -26,5 +26,5 @@
   - mixins
 
 七. 数据参数
-  - config
+  - filters
    
