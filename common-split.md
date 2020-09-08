@@ -34,7 +34,7 @@
   - Screenfull/全屏
   - SearchBar/搜索栏
   - Tabs/tab 切换
-  - title
+  - title/标题
 
 五. 指令
 
