@@ -65,3 +65,18 @@ dmp
 
 <font>十、[copy-to-clipboard](https://github.com/sudodoki/copy-to-clipboard#readme)</font>（支持ie11+）
 ![copy.png](./images/dmp/copy.png)
+
+####dmp兼容性
+
+
+|  浏览器 | 版本  | 内核 |
+|  ----  | ----  | ----
+| QQ浏览器  | 10.6.1 | Chromium70
+| 搜狗浏览器  | 10.0.0.32805 | Chromium72
+| IE  | 11 | 11.379.17763.0
+| 360浏览器 | 12.2.1498.0 | Chromium78
+| firefox  | 70.0.1 | Gecko70
+| chrome  | 76.0.3809 | Chromium76.0
+| Edge  | 79.0.309.68 | Edge79.0
+| safari  | 13.0.5 | WebKit608.2.11
+| opera  | 67 | Chromium80
